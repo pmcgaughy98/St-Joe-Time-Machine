@@ -1,0 +1,8 @@
+{
+  "name": "st-joe-time-machine",
+  "description": "Turns St. Joseph, Missouri newspaper clippings into Facebook posts and reel scripts in Danielle's voice, without inventing facts",
+  "version": "1.0.0",
+  "author": {
+    "name": "Preston McGaughy Jr"
+  }
+}

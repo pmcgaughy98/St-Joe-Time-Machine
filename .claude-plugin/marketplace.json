@@ -1,0 +1,14 @@
+{
+  "name": "time-machine-tools",
+  "description": "Claude tools for the St. Joe Time Machine local-history page",
+  "owner": {
+    "name": "Preston McGaughy Jr"
+  },
+  "plugins": [
+    {
+      "name": "st-joe-time-machine",
+      "source": "./plugins/st-joe-time-machine",
+      "description": "Turns St. Joseph, Missouri newspaper clippings into Facebook posts and reel scripts in Danielle's voice, without inventing facts"
+    }
+  ]
+}
