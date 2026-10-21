@@ -41,7 +41,12 @@ plugins/st-joe-time-machine/
   skills/st-joe-time-machine/SKILL.md
   skills/st-joe-time-machine/references/her-best-videos.md
 knowledge/                               files for the Project
+docs/claude-kit.html                     source of the Time Machine Claude Kit page
+docs/mom-st-joe-time-machine.md          Preston's running notes on this setup
 ```
+
+The Claude Kit page itself lives at https://claude.ai/artifact/NT67SajQoKL2iEqVJPEQzu. Keep `docs/` out of
+the Project's GitHub selection; it repeats what `knowledge/` already says.
 
 This repository is public. Keep it to public material: her published videos and posts, and public
 sources. No personal details, logins, or private messages.
